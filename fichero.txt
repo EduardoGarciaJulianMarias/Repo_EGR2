@@ -1,5 +1,7 @@
 soy un fichero.txt
 
+--introduzco esta line desde rama1
+
 8:55 añado una nueva línea
 
 9:03 modificado en loccal
