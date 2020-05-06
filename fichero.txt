@@ -1,4 +1,3 @@
-soy un fichero muy feo fichero.txt
 
 --introduzco esta line desde rama1
 
