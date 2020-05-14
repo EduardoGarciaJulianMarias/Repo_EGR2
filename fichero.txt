@@ -1,3 +1,4 @@
+Corrijo el error de la versión 1.5
 soy un fichero.txt
 
 8:55 añado una nueva línea
