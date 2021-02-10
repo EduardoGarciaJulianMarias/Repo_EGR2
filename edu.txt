@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 buenas aqui estamos
+=======
+ hola edu que tal estas
+>>>>>>> 5d258c457edd23f1cdf397a10e90e49c37bc2c61
